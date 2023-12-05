@@ -4,16 +4,16 @@
 
 - Please reconstruct your path as:
 - |-- ImageClassification/
-|    |-- ImageForclassify/
-|          |--action/
-|          |--adventure/
-|          |--emotion/
-|          |--funny/
-|          |--notknow/
-|          |--sport/ 
-|    |-- Save_Img/
-|          |--1.jpg
-|          |--2.jpg
-|          |….
-|    |-- IMage_post.ipynb
+- |    |-- ImageForclassify/
+- |          |--action/
+- |          |--adventure/
+- |          |--emotion/
+- |          |--funny/
+- |          |--notknow/
+- |          |--sport/ 
+- |    |-- Save_Img/
+- |          |--1.jpg
+- |          |--2.jpg
+- |          |….
+- |    |-- IMage_post.ipynb
 
